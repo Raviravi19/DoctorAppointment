@@ -1,4 +1,5 @@
-The doctor appointment System is a web-based application where users could access easily and book their appointments 
+The doctor appointment System is a web-based application where users could access easily and book their appointments .
+
  The First image shows the login page of the Application
 ![login](https://github.com/Raviravi19/doctorAppointment/assets/104505837/b4529961-068d-454c-854b-3a4af3b7c458)
 Home Page 
